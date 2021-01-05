@@ -1,4 +1,6 @@
 # Proyectos
-intento 1
+Grupo Macarena
 
-continuación del desarrollo...
+Quería comenzar a adentrarme en el Desarrollo Web con algo que me inspirara.
+Ya que mi grupo en la Iglesia lo ha hecho, qiero hacer esto para presentar una corta 
+briografía/presentación.
