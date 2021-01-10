@@ -2,9 +2,17 @@
     margin: 0;
     padding: 0;
 }
+                            /* Cover */
+.cover-img {
+    size: cover;
+    text-align: center;
+}
+.cover h1 {
+    text-align: center;
+}
 
                             /* Menu de Navegacion */
-nav ul li a {
-font-style: inherit;
-
+a {
+    font-style: inherit;
+    text-decoration: none;
 }
