@@ -4,6 +4,7 @@
 }
                             /* Cover */
 .cover-img {
+    align-items: center;
     margin: 10px 0 10px 0;
 }
 .cover h1 {
