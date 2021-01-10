@@ -4,8 +4,7 @@
 }
                             /* Cover */
 .cover-img {
-    size: cover;
-    text-align: center;
+    margin: 10px 0 10px 0;
 }
 .cover h1 {
     text-align: center;
@@ -13,6 +12,5 @@
 
                             /* Menu de Navegacion */
 a {
-    font-style: inherit;
     text-decoration: none;
 }
