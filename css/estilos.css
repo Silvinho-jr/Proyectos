@@ -3,15 +3,40 @@
     padding: 0;
 }
                             /* Cover */
-.cover-img {
-    align-items: center;
-    margin: 10px 0 10px 0;
+div.cover {
+    text-align: center;    
+}
+div img.cover-img {
+    text-align: center;
+    margin: 10px;
+    background: url(img/logo1.jpg) ;
 }
 .cover h1 {
     text-align: center;
 }
-
                             /* Menu de Navegacion */
+.menu {
+    margin: 10px;
+}
 a {
     text-decoration: none;
+}
+ul li {
+    list-style: none;
+}
+                            /* Contenido */
+.contenedor {
+    margin: 10px;
+}
+                            /* Footer */
+footer {
+    margin: 10px;
+}
+                            /* Redes */
+.social {
+    padding-left: 33%;
+}
+.copy {
+    margin-top: 10px;
+    text-align: center;
 }
